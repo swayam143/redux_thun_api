@@ -1,0 +1,84 @@
+.del_btn {
+  position: relative !important;
+  display: inline-block !important;
+  height: 30px !important;
+  text-transform: uppercase !important;
+  vertical-align: middle !important;
+  color: #fff !important;
+  font-size: 11px !important;
+  font-weight: 500 !important;
+  letter-spacing: 1.3px !important;
+  padding: 0 30px !important;
+  background-color: #ee2752 !important;
+  border: 1px solid #ee2752 !important;
+  text-transform: none !important;
+}
+.del_btn:hover {
+  background-color: #ee2752 !important;
+}
+
+.edit_btn {
+  position: relative !important;
+  display: inline-block !important;
+  height: 30px !important;
+  text-transform: uppercase !important;
+  vertical-align: middle !important;
+  color: rgb(39, 39, 39) !important;
+  font-size: 11px !important;
+  font-weight: 500 !important;
+  letter-spacing: 1.3px !important;
+  padding: 0 30px !important;
+
+  border: 1px solid #ee2752 !important;
+  background-color: rgba(255, 255, 255, 0.01) !important;
+  border-color: rgb(195, 195, 195) !important;
+  text-transform: none !important;
+}
+
+.edit_btn:hover {
+  background-color: rgba(255, 255, 255, 0.01) !important;
+}
+
+.add_user_btn {
+  background-color: #82b440 !important;
+  margin-left: auto !important;
+  display: block !important;
+  margin-top: 50px !important;
+  text-transform: none !important;
+}
+
+.add_user_heading {
+  background: #5bb7a630;
+  width: 200px;
+  margin: 25px auto 0px auto !important;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+label.Mui-focused {
+  color: #5956e9 !important;
+}
+.MuiInput-underline:after {
+  border-bottom-color: #5956e9 !important;
+}
+.MuiOutlinedInput-root,
+fieldset {
+  border-color: #5956e9 !important;
+}
+.MuiOutlinedInput-root,
+fieldset:hover {
+  border-color: #5956e9 !important;
+}
+.Mui-focused fieldset {
+  border-color: #5956e9 !important;
+}
+
+.body_bg{
+  background:#F4F7F9;
+  min-height: 96vh;
+  padding:10px;
+  overflow:auto;
+}
+
+body{
+  background:#5956e9 ;
+}
